@@ -1,4 +1,4 @@
-# **Hello everone, I am Nguyen Dinh Thanh!** 💗
+# **Hello everyone, I am Nguyen Dinh Thanh!** 💗
 # こんにちは, 私はグエン・ディン・タイン! 👋
 
 [![Facebook Badge](https://img.shields.io/badge/-Đìnhh_Thànhh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080621702325)](https://www.facebook.com/profile.php?id=100080621702325)
