@@ -32,8 +32,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhthanhh&theme=radical&layout=compact)
 
 ## 📌 Pinned Repositories
-- [Project 1]([https://github.com/yourusername/project1](https://github.com/dinhhthanhh/backEndFirst.git))
-- [Project 2]([https://github.com/yourusername/project2](https://github.com/dinhhthanhh/TTUD.git))
-- [Project 3](https://github.com/dinhhthanhh/OOP-LAB_LTHDT.git)
+- [backEndFirst](https://github.com/dinhhthanhh/backEndFirst.git)
+- [TTUD](https://github.com/dinhhthanhh/TTUD.git)
+- [OOPLAB](https://github.com/dinhhthanhh/OOP-LAB_LTHDT.git)
 ...
 
