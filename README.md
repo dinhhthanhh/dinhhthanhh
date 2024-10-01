@@ -1,9 +1,10 @@
-# Hi there, I'm Nguyen Dinh Thanh! 👋
+# Hello everone, I am Nguyen Dinh Thanh! 💗
+# こんにちは, 私はグエン・ディン・タイン! 👋
 
 [![Facebook Badge](https://img.shields.io/badge/-Đìnhh_Thànhh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080621702325)](https://www.facebook.com/profile.php?id=100080621702325)
-[![Gmail Badge](https://img.shields.io/badge/-dinhhthanhhlove@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinhhthanhhlove@gmail.com)](mailto:dinhhthanhhlove@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_dtks.luv_/)](https://www.instagram.com/_dtks.luv_/)
 [![TikTok Badge](https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@dinhhthanhh_luv)](https://www.tiktok.com/@dinhhthanhh_luv)
+[![Gmail Badge](https://img.shields.io/badge/-dinhhthanhhlove@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dinhhthanhhlove@gmail.com)](mailto:dinhhthanhhlove@gmail.com)
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
