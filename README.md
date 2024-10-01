@@ -27,9 +27,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhhthanhh&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhthanhh&theme=radical&layout=compact)
 
 ## 📌 Pinned Repositories
 - [Project 1]([https://github.com/yourusername/project1](https://github.com/dinhhthanhh/backEndFirst.git))
