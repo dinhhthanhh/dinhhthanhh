@@ -1,4 +1,4 @@
-# Hello everone, I am Nguyen Dinh Thanh! 💗
+# **Hello everone, I am Nguyen Dinh Thanh!** 💗
 # こんにちは, 私はグエン・ディン・タイン! 👋
 
 [![Facebook Badge](https://img.shields.io/badge/-Đìnhh_Thànhh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100080621702325)](https://www.facebook.com/profile.php?id=100080621702325)
@@ -23,7 +23,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
 ## 📈 GitHub Stats
