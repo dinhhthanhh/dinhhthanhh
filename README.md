@@ -35,17 +35,20 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhthanhh&theme=radical&layout=compact)
 
-## 📊 GitHub Activity Graph:
+| Technology  | Proficiency |
+|-------------|-------------|
+| JavaScript  | ★★★★☆      |
+| Java        | ★★★☆☆      |
+| c++         | ★★★★☆      |
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dinhhthanhh&theme=github)
-
-## 👀 Profile Views:
-
-![Profile Views](https://komarev.com/ghpvc/?username=dinhhthanhh&color=blueviolet&style=flat-square)
 
 ## 📌 Pinned Repositories
 - [backEndFirst](https://github.com/dinhhthanhh/backEndFirst.git)
 - [TTUD](https://github.com/dinhhthanhh/TTUD.git)
 - [OOPLAB](https://github.com/dinhhthanhh/OOP-LAB_LTHDT.git)
+
+## 👀 Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=dinhhthanhh&color=blueviolet&style=flat-square)
 
 
