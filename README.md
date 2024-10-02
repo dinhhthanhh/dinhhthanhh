@@ -29,6 +29,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhhthanhh&show_icons=true&theme=radical)
 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dinhhthanhh&theme=radical)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhthanhh&theme=radical&layout=compact)
 
 ## 📌 Pinned Repositories
