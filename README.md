@@ -43,7 +43,7 @@
 
 
 ## 📌 Pinned Repositories
-- [backEndFirst](https://github.com/dinhhthanhh/backEndFirst.git)
+- [react--quiz](https://github.com/dinhhthanhh/react--quiz)
 - [TTUD](https://github.com/dinhhthanhh/TTUD.git)
 - [OOPLAB](https://github.com/dinhhthanhh/OOP-LAB_LTHDT.git)
 
